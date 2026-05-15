@@ -1,5 +1,6 @@
-# Single Page CV - Roadmap.sh Project
+# Single Page CV
 
-This is my solution for the Single Page CV project from roadmap.sh.
+This is my solution to the [Single Page CV project](https://roadmap.sh/projects/single-page-cv) from roadmap.sh.
 
-Project URL: https://haikalPz.github.io/CV_FirstRoadmap/
+### Project URL
+https://haikalPz.github.io/CV_FirstRoadmap/
